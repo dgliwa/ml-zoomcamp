@@ -1,0 +1,13 @@
+[project]
+name = "ml-zoomcamp"
+version = "0.1.0"
+description = "Exercises following allow with the Data Talks Club ML zoomcamp"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "seaborn",
+  "jupyter"
+]
